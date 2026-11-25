@@ -4,4 +4,4 @@ Slim - Multifunctional Javascript Superset
 
 ## Why
 
-This organization was created to bring together all official and unofficial open Slim (SPM) libraries
+This organization was created to bring together all official Slim (SPM) libraries
